@@ -1,3 +1,8 @@
+---
+name: astro-agent-skills
+description: Astro 框架开发指南
+---
+
 # Astro 开发 Skills 指南
 
 Astro 是以内容驱动的网站最优的 Web 框架，核心特点：群岛架构（Islands）、服务器优先、默认无 JS、UI 框架无关。
